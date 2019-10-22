@@ -1,0 +1,12 @@
+E:\1Code\bgogoApi\bgogoApi\bin\Debug\bgogoApi.dll
+E:\1Code\bgogoApi\bgogoApi\bin\Debug\bgogoApi.pdb
+E:\1Code\bgogoApi\bgogoApi\obj\Debug\bgogoApi.csprojAssemblyReference.cache
+E:\1Code\bgogoApi\bgogoApi\obj\Debug\bgogoApi.csproj.CoreCompileInputs.cache
+E:\1Code\bgogoApi\bgogoApi\obj\Debug\bgogoApi.dll
+E:\1Code\bgogoApi\bgogoApi\obj\Debug\bgogoApi.pdb
+E:\1Code\bgogoApi\bgogoApi\bin\Debug\Newtonsoft.Json.dll
+E:\1Code\bgogoApi\bgogoApi\bin\Debug\System.ValueTuple.dll
+E:\1Code\bgogoApi\bgogoApi\bin\Debug\Newtonsoft.Json.pdb
+E:\1Code\bgogoApi\bgogoApi\bin\Debug\Newtonsoft.Json.xml
+E:\1Code\bgogoApi\bgogoApi\bin\Debug\System.ValueTuple.xml
+E:\1Code\bgogoApi\bgogoApi\obj\Debug\bgogoApi.csproj.CopyComplete
